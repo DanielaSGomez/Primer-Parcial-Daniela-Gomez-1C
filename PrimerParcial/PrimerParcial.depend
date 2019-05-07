@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1557240576 source:c:\users\alumno\desktop\primer-parcial-daniela-gomez-1c\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"peliculas.h"
+	"validaciones.h"
+
+1557229956 source:c:\users\alumno\desktop\primer-parcial-daniela-gomez-1c\primerparcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"validaciones.h"
+
+1557233066 c:\users\alumno\desktop\primer-parcial-daniela-gomez-1c\primerparcial\validaciones.h
+
+1557240565 source:c:\users\alumno\desktop\primer-parcial-daniela-gomez-1c\primerparcial\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+	"peliculas.h"
+
+1557239479 c:\users\alumno\desktop\primer-parcial-daniela-gomez-1c\primerparcial\peliculas.h
+
